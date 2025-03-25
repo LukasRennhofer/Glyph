@@ -49,10 +49,10 @@ namespace glyph
         std::string glyphFolder = ".glyph";
         std::filesystem::create_directory(glyphFolder);
 
-        std::ofstream outFile(glyphFolder + "/" + filePath);
+        std::ofstream outFile(filePath + "/" + glyphFolder);
         if (!outFile)
         {
-            std::cerr << "Error: Could not create file " << glyphFolder + "/" + filePath << "\n";
+            std::cerr << "Error: Could not create file " << filePath + "/" + glyphFolder << "\n";
             return false;
         }
 
@@ -65,7 +65,7 @@ namespace glyph
     std::map<std::string, std::string> interpretGlyphFile(const std::string &filePath)
     {
         std::map<std::string, std::string> definitions;
-        std::ifstream inFile(".glyph/" + filePath);
+        std::ifstream inFile(filePath + ".glyph/");
         std::string line;
 
         if (!inFile)

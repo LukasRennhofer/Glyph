@@ -8,7 +8,7 @@ Glyph Documentation Generator
 </p>
 
 
-### Glyph is a tool designed to generate and compile documentation files from Markdown (.md) files into Webdocs. It also features a .glyph configuration file that allows for dynamic content generation and customization, like setting paths, titles, and other metadata for your documentation.
+### Glyph is a tool designed to generate and compile documentation files from Markdown (.md) files into Webdocs (JS, HTML). It also features a .glyph configuration file that allows for dynamic content generation and customization, like setting paths, titles, and other metadata for your documentation.
 
 ## Building
 
