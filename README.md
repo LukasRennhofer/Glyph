@@ -1,5 +1,5 @@
 <h1 align="center">
-Glyph Documentation Generator
+Glyph GUI Framework
 <h1/>
 
 
