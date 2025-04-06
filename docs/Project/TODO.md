@@ -1,0 +1,16 @@
+- Add Build Files []
+- Add Base Architecture []
+- Add Rectangle Rendering []
+- Add Basic Layout (like Left, Right, Top, Bottom) []
+- Add Cross- Rendering (Vulkan) [?]
+- Add Font Rendering []
+- Add Other Window/ Input Managers (like SDL2 or GLFW3) []
+- Add Input (like if Quad is pressed) []
+- Add simple Widgets (Buttons) []
+- Add new Architecture [] 
+- Add Cross- Platforms (Switch) []
+- Add more complex things (hovering, animations) []
+- Add easy API and docs []
+- Add Image Rendering (Icons)
+- Add Videos (?)
+- Add other widgets

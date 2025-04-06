@@ -4,7 +4,7 @@ Glyph GUI Framework
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/LukasRennhofer/Glyph/refs/heads/main/resources/logos/Glyph-logoWBG.png" width="400"alt="Glyph Logo">
+    <img src="https://raw.githubusercontent.com/LukasRennhofer/Glyph/refs/heads/main/resources/logos/Glyph-logoWBG.png" width="200"alt="Glyph Logo">
 </p>
 
 
